@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.4-fourdigits-3 (unreleased)
+1.0.4-fourdigits-3 (2016-02-08)
 -------------------------------
 
 - Nothing changed yet.
