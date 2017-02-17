@@ -1,8 +1,8 @@
 Changelog
 =========
 
-v1.1.0(unreleased)
--------------------
+1.0.4-fourdigits-4- (2017-02-17)
+--------------------------------
 
 - Task assignment: dash to underscore
   [casdr]
